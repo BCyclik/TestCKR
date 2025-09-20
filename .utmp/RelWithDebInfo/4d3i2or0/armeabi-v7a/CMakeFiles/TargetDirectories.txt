@@ -1,0 +1,5 @@
+G:/Unity3D/Projects/TestCKR/.utmp/RelWithDebInfo/4d3i2or0/armeabi-v7a/CMakeFiles/edit_cache.dir
+G:/Unity3D/Projects/TestCKR/.utmp/RelWithDebInfo/4d3i2or0/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+G:/Unity3D/Projects/TestCKR/.utmp/RelWithDebInfo/4d3i2or0/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+G:/Unity3D/Projects/TestCKR/.utmp/RelWithDebInfo/4d3i2or0/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+G:/Unity3D/Projects/TestCKR/.utmp/RelWithDebInfo/4d3i2or0/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
